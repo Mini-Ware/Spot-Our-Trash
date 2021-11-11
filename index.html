@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Spot Our Trash</title>
+    <link rel="icon" href="media/trash-b.png">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="seajam, teamsea, trash, pollution, ocean, climate, awareness">
+    <meta name="description" content="Trash can be found deep in our oceans, even in places humans never reached before! Can you spot them and raise awareness of this issue?">
+    <meta property = "og:title" content = "Spot Our Trash">
+    <meta property = "og:description" content = "Trash can be found deep in our oceans, even in places humans never reached before! Can you spot them and raise awareness of this issue?">
+    <meta property="og:image" content="https://spot-our-trash.web.app/media/trash-b.png"/>
+    <meta name="theme-color" content="#003449">
+  </head>
+<body>
+  </br>
+  <h1 class="stat">Trash collected</h1><h1 id="score" class="dyn">0</h1></br></br>
+  <h1 class="stat">Clock</h1><h1 id="timer" class="dyn">1:00</h1>
+  <div id="overlayer"></div>
+  <div id="overlay">
+    <h1 id="title">Spot Our Trash</h1>
+    <audio id="effect-a" src="media/get.wav"></audio>
+    <audio id="effect-b" src="media/get.wav"></audio>
+    <audio id="effect-c" src="media/get.wav"></audio>
+    <audio id="effect-d" src="media/get.wav"></audio>
+    <audio id="effect-e" src="media/get.wav"></audio>
+    <audio id="effect-f" src="media/get.wav"></audio>
+    <audio id="start" src="media/begin.wav"></audio>
+    <audio id="finish" src="media/end.wav"></audio>
+    <img id="logo" src="media/trash-b.png">
+    <img id="star-a" class="star" src="media/empty.png">
+    <img id="star-b" class="star" src="media/empty.png">
+    <img id="star-c" class="star" src="media/empty.png">
+    <h3 id="grade" class="context">Trash can be found deep in our oceans, even in places humans never reached before!</h3>
+    <h3 id="result" class="context">Can you spot them and raise awareness of this issue?</h3>
+    <button id="control" onclick="gameStart();">Play</button>
+    <h3>Developed by Mini-Ware · <a href="credits.txt">Credits</a></h3>
+  </div>
+  <div id="light"></div>
+  <div id="cover"></div>
+  <img id="trash-a" class="trash" src="media/trash-a.png">
+  <img id="trash-b" class="trash" src="media/trash-b.png">
+  <img id="trash-c" class="trash" src="media/trash-c.png">
+  <img id="trash-d" class="trash" src="media/trash-a.png">
+  <img id="trash-e" class="trash" src="media/trash-b.png">
+  <img id="trash-f" class="trash" src="media/trash-c.png">
+</body>
+<script src="main.js"></script>
+</html>
