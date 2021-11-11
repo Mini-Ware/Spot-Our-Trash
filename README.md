@@ -5,6 +5,6 @@ Trash can be found deep in our oceans, even in places humans never reached befor
 ![Forks](https://img.shields.io/github/forks/Mini-Ware/Spot-Our-Trash)<br>
 ![Issues](https://img.shields.io/github/issues/Mini-Ware/Spot-Our-Trash)
 ![Commit](https://img.shields.io/github/last-commit/Mini-Ware/Spot-Our-Trash)</br></br>
-This game is developed for [#Seajam](https://itch.io/jam/seajam/), which supports [#TeamSeas](https://teamseas.org/), an organisation raising awareness for ocean conservation</br></br>
+This simple clicker game is developed for [#Seajam](https://itch.io/jam/seajam/), which supports [#TeamSeas](https://teamseas.org/), an organisation raising awareness for ocean conservation</br></br>
 ![](https://img.itch.zone/aW1nLzczOTU1NzkucG5n/315x250%23c/%2Fai7tS.png)</br></br>
  [View submission on itch.io](https://itch.io/jam/seajam/rate/1269933) | [Website](https://spot-our-trash.web.app)
